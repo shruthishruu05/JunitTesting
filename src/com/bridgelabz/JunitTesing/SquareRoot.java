@@ -1,6 +1,6 @@
 package com.bridgelabz.JunitTesing;
 
-public class Sqrt {
+public class SquareRoot {
 	
 	public static void Sqrt(double c)
 	{
