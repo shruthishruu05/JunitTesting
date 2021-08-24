@@ -28,10 +28,7 @@ public class VendingMachine
 		System.out.println("The " +notes[index]+ " is " +changeNotes);
 			}
 			index++;
-		}
-		
-		
-		
+		}	
 	}
 }
 		
