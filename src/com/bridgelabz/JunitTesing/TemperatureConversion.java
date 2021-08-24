@@ -1,8 +1,8 @@
 package com.bridgelabz.JunitTesing;
 import java.util.*;
 public class TemperatureConversion {
-	public static int fahrenheit = 0;
-	public static int celsius = 0;
+	public static int fahrenheit;
+	public static int celsius;
 	
 	public static void FahrenheitToCelsius(double fahrenheit)
 	{
